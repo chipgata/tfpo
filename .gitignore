@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+.terraform
+.terraform.lock.hcl
+*.tfplan
+.idea
